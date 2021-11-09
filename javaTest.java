@@ -6,6 +6,9 @@ class javaTest {
     System.out.println("----------------");
     
     System.out.println("GIT Demo");
+    
+    
+    System.out.println("Commit 1 edit");
   
   }
 
